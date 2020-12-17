@@ -6,3 +6,5 @@ description: ' The meaningful project characterized the preferences of mice visu
   and each NWB file is therefore about 60GB.'
 identifier: '000042'
 name: ' Allen Institute Openscope - Meaningful project  - Full movies'
+organism:
+- species: Mus musculus
