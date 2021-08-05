@@ -15,7 +15,8 @@ description: ' The meaningful project characterized the preferences of mice visu
   and each NWB file is therefore about 60GB.'
 id: DANDI:000042/draft
 identifier: DANDI:000042
-manifestLocation: []
+manifestLocation:
+- https://api.dandiarchive.org/api/dandisets/000042/versions/draft/assets/
 name: Allen Institute Openscope - Meaningful project  - Full movies
 repository: https://dandiarchive.org/
 schemaKey: Dandiset
